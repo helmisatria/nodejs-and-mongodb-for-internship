@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-and-mongodb-for-internship",
+  "version": "1.0.0",
+  "description": "NodeJS and mongoDB training for study group database lab internship 2017",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helmisatria/nodejs-and-mongodb-for-internship.git"
+  },
+  "author": "Helmi Satria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helmisatria/nodejs-and-mongodb-for-internship/issues"
+  },
+  "homepage": "https://github.com/helmisatria/nodejs-and-mongodb-for-internship#readme"
+}
