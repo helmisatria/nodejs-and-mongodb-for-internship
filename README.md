@@ -9,6 +9,13 @@ NodeJS and MongoDB tutorial for Study Group Database Laboratory Internship 2017
         Please install the Last Version of MongoDB
         - Windows: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
         dibagian atas ada button(ijo) download, klik.
+![MongoDB download for windows](/mongoDB install.PNG?raw=true "Optional Title")
+        
 ## Step by step:
     1. npm init
-    2. 
+    2.
+=======
+        !
+## Step by step:
+    1. npm init
+    2.
